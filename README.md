@@ -1,5 +1,8 @@
 # 💫 About Me:
-- 🛡️ Entusiasta de ciberseguridad ofensiva y defensiva.<br>- 🖥️ Administro servidores y redes críticas.<br>- ☁️ Aprendiendo diseño y operación de entornos Cloud.<br>- 🛠️ Comprendiendo de poco: Terraform, Docker, Kubernetes, Ansible.<br>- 🔍 En constante búsqueda de la excelencia y mejora continua.<br><br>## 📚 Actualmente Enfocado en:<br><br>- Pentesting en entornos corporativos sin credenciales.<br>- Automatización de respaldos y despliegues seguros.<br>- Seguridad de pipelines de integración y despliegue continuo.<br>- Fortalecimiento de infraestructura resiliente.
+- 🛡️ Entusiasta de ciberseguridad ofensiva y defensiva.<br>- 🖥️ Administro servidores y redes críticas.<br>- ☁️ Aprendiendo diseño y operación de entornos Cloud.<br>- 🛠️ Comprendiendo de poco: Terraform, Docker, Kubernetes, Ansible.<br>- 🔍 En constante búsqueda de la excelencia y mejora continua.<br><br>
+
+## 📚 Actualmente Enfocado en:
+- Pentesting en entornos corporativos sin credenciales.<br>- Automatización de respaldos y despliegues seguros.<br>- Seguridad de pipelines de integración y despliegue continuo.<br>- Fortalecimiento de infraestructura resiliente.
 
 
 ## 🌐 Socials:
